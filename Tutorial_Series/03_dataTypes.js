@@ -16,6 +16,7 @@ let isLoggedIn = false
 // boolean => true/false
 // null => StandAlone Value
 // undefined => Unassigned Variable
+// NaN => Not A Number
 // symbol => Unique or Individual Component
 
 // object =>
